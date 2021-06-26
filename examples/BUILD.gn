@@ -23,6 +23,8 @@ group("examples") {
     "speech",
     "tennis",
     "time",
+
+    "udptest"
   ]
 }
 
